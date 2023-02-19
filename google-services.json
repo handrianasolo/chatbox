@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830959153244",
+    "firebase_url": "https://chatbox-e0bf8-default-rtdb.firebaseio.com",
+    "project_id": "chatbox-e0bf8",
+    "storage_bucket": "chatbox-e0bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830959153244:android:29d4cd368cd2309ead3699",
+        "android_client_info": {
+          "package_name": "com.reactnative.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830959153244-8s6imfafph7bg3mpvu5d872bmm101933.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg7DAUBqFXrY_t45SfeOirTOQEEB_YKOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830959153244-8s6imfafph7bg3mpvu5d872bmm101933.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
